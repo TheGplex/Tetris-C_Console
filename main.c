@@ -1,5 +1,5 @@
 /*
- * - Gabriel Bolena
+ * Bolena
  * - HTL StP - Elektronik und technische Informatik
  * - 2CHELS  - Embedded
  * - Created: 01.01.2025
