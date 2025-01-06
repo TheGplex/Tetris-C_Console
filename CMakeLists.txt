@@ -3,4 +3,4 @@ project(tetris_optimized C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(tetris_optimized main.c ../../libraries/console.c tetris.c)
+add_executable(tetris_optimized main.c console.c tetris.c)
