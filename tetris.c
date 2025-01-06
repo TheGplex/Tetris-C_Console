@@ -1,8 +1,8 @@
 /*
- * - Gabriel Bolena
- * - HTL StP - Abteilung Elektronik und technische Informatik
- * - 2CHELS  - Embedded-Klasse
- * - Erstellt: 01.01.2025
+ * Bolena
+ * - HTL StP - Elektronik und technische Informatik
+ * - 2CHELS  - Embedded
+ * - Created: 01.01.2025
 */
 
 #include "tetris.h"
